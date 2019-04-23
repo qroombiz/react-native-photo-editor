@@ -1,25 +1,53 @@
 {
-    "name": "react-native-photo-editor",
-    "version": "0.0.7",
-    "description": "React Native: Native Photo Editor",
-    "main": "RNPhotoEditor.js",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/prscX/react-native-photo-editor.git"
-    },
-    "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1",
-        "postinstall": "node ../pod-installer/index.js"
-    },
-    "keywords": [
-        "react-native"
-    ],
-    "author": "Pranav Raj Singh Chauhan",
-    "dependencies": {
-        "pod-installer": "0.0.0"
-    },
-    "devDependencies": {
-        "prettier-pack": "0.0.8"
-    },
-    "license": "Apache License 2.0"
+  "_from": "git://github.com/kelvinlemus/react-native-photo-editor.git#092eefe",
+  "_id": "react-native-photo-editor@0.0.7",
+  "_inBundle": false,
+  "_integrity": "sha1-nofn4YW8+e1xGOO0aaTVpv+YsFY=",
+  "_location": "/react-native-photo-editor",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "git://github.com/kelvinlemus/react-native-photo-editor.git#092eefe",
+    "rawSpec": "git://github.com/kelvinlemus/react-native-photo-editor.git#092eefe",
+    "saveSpec": "git://github.com/kelvinlemus/react-native-photo-editor.git#092eefe",
+    "fetchSpec": "git://github.com/kelvinlemus/react-native-photo-editor.git",
+    "gitCommittish": "092eefe"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "git://github.com/kelvinlemus/react-native-photo-editor.git#092eefe9a5cdfacf1ed46bb794e50491ef9f3b6b",
+  "_spec": "git://github.com/kelvinlemus/react-native-photo-editor.git#092eefe",
+  "_where": "/Users/eabuslaiman/Trabajo/Qroom/Zeshion",
+  "author": {
+    "name": "Pranav Raj Singh Chauhan"
+  },
+  "bugs": {
+    "url": "https://github.com/prscX/react-native-photo-editor/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "pod-installer": "0.0.0"
+  },
+  "deprecated": false,
+  "description": "React Native: Native Photo Editor",
+  "devDependencies": {
+    "prettier-pack": "0.0.8"
+  },
+  "homepage": "https://github.com/prscX/react-native-photo-editor#readme",
+  "keywords": [
+    "react-native"
+  ],
+  "license": "Apache License 2.0",
+  "main": "RNPhotoEditor.js",
+  "name": "react-native-photo-editor",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prscX/react-native-photo-editor.git"
+  },
+  "scripts": {
+    "postinstall": "node ../pod-installer/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.0.7"
 }
